@@ -1,0 +1,5 @@
+*.ctxt
+*.class
+doc/
+__MACOSX/
+package.bluej
